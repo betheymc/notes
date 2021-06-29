@@ -4,7 +4,7 @@
 	- Interesting issue about Svelte scaling and a crossover point as far as page load speed goes: https://github.com/sveltejs/svelte/issues/2546
 - I really like that the page can be dynamically updated so easily
 	
-- Would/could we still use jQuery?
+- Would/could we still use jQuery with it?
 
 - Since Svelte is component-based and has the style, script, and html tags all in the same file, how would we separate the CSS from JS with templates and such?
 - When comparing issues on Github, Svelte has about a third of the number of React or Vue, and about a sixth compared to Angular.
