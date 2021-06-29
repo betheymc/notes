@@ -2,6 +2,7 @@
 
 - I like that it improves page load speed
 	- Interesting issue about Svelte scaling and a crossover point as far as page load speed goes: https://github.com/sveltejs/svelte/issues/2546
+- I really like that the page can be dynamically updated so easily
 	
 - Would/could we still use jQuery?
 
