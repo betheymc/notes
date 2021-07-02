@@ -6,4 +6,5 @@
 
 - #### How does the Svelte compiler work?
   - https://dev.to/joshnuss/svelte-compiler-under-the-hood-4j20
+  - https://github.com/sveltejs/svelte/tree/v2#api
   - See JS output tab for compiled JS and CSS here: https://svelte.dev/tutorial/basics
