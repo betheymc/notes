@@ -18,6 +18,6 @@
 - this is a super weird way of doing things: https://svelte.dev/tutorial/updating-arrays-and-objects
 - this feels weird / I don't understand it: https://svelte.dev/tutorial/keyed-each-blocks
 
-#### Continuation of Svelte thoughts:
+### Continuation of Svelte thoughts:
 
 - Since it is less used, it is more time-consuming to learn and use.
