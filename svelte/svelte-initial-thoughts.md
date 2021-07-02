@@ -14,11 +14,10 @@
 - I like the idea of building specific components with it, and seeing how that works. Since it's a new smaller community and mostly a one man show, that way we can get a good idea of how it works in real coding projects. If it works well, we could use it for the whole website.
 - Will we be using the same code for ARJ as for the future pando? We could build parts of ARJ with Svelte and then revert to Vue later if it is giving us problems.
 
-#### Continuation of Svelte thoughts:
-
-- Since it is less used, it is more time-consuming to learn and use.
-
 #### Other:
 - this is a super weird way of doing things: https://svelte.dev/tutorial/updating-arrays-and-objects
 - this feels weird / I don't understand it: https://svelte.dev/tutorial/keyed-each-blocks
 
+#### Continuation of Svelte thoughts:
+
+- Since it is less used, it is more time-consuming to learn and use.
