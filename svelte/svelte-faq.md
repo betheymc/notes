@@ -17,3 +17,6 @@
   - ##### Specifically, can Svelte work with Django templates?
       - theoretically, yes. Whether we will still be able to update Django templates dynamically without a code deploy is a different question, and remains to be seen. 
       -  see this for more information: https://github.com/betheymc/notes/blob/main/svelte/svelte-and-django-templates.pdf
+
+- #### Is there a cheatsheet?
+  - funny you should ask: https://sveltesociety.dev/cheatsheet
