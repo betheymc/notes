@@ -3,4 +3,5 @@
   - https://vuejs.org/v2/guide/custom-directive.html#Directive-Hook-Arguments
 
 #### We could build global (and local) helper functions using Vue filters.
+  - https://youtu.be/Dh0E9aaedEA
   - https://vuejs.org/v2/guide/filters.html
