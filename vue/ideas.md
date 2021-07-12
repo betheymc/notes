@@ -9,3 +9,6 @@
 
 #### We could use components for plugins when it is something like a wysiwyg editor (a block of html that is interactive). Perhaps even use a directive and call the component from within the directive.
   - https://youtu.be/kskV1q4iokk
+
+#### Traversy Media VueJS Crash Course
+  - https://www.youtube.com/watch?v=qZXt1Aom3Cs
